@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "448678600484",
+    "firebase_url": "https://chat-5263f.firebaseio.com",
+    "project_id": "chat-5263f",
+    "storage_bucket": "chat-5263f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:448678600484:android:ec28986a56b1b886",
+        "android_client_info": {
+          "package_name": "com.sametaylak.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "448678600484-tkj81i653rull8mv5u1tuqgq7v5nfs2v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzJgaDjO_NUz_Paua3R85QogVup53COZI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
